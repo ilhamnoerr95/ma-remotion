@@ -1,0 +1,289 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "padding": 0.5,
+  "music": null,
+  "scenes": [
+    {
+      "id": "01",
+      "text": "Nobody in Edo expected the end of the world to fall quietly from the sky.",
+      "image": "assets/ep1/images/01.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.52
+    },
+    {
+      "id": "02",
+      "text": "No invading army. No warning drums. Just a warm, black ash that tasted like burnt iron.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.96
+    },
+    {
+      "id": "03",
+      "text": "Within three days, the sun disappeared behind a ceiling of grey smoke.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 5.22
+    },
+    {
+      "id": "04",
+      "text": "Wells turned bitter. Rice fields withered into dust.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 3.48
+    },
+    {
+      "id": "05",
+      "text": "And the people who breathed in too much of that ash... stopped being human.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.09
+    },
+    {
+      "id": "06",
+      "text": "My name is Renjiro. I used to be a samurai sworn to protect a lord I couldn't save.",
+      "image": "assets/ep1/images/06.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.83
+    },
+    {
+      "id": "07",
+      "text": "After that, I tied my sword shut with straw rope and promised myself one simple rule: keep your head down, trust nobody, and survive on your own.",
+      "image": "assets/ep1/images/07.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 11.74
+    },
+    {
+      "id": "08",
+      "text": "That rule lasted until the seventh night. While scavenging for clean water near the edge of town, I smelled burning cedar.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 9.13
+    },
+    {
+      "id": "09",
+      "text": "The local herbalist's clinic was on fire. Commander Kagemori and his Iron Clan raiders were tearing the place apart.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.26
+    },
+    {
+      "id": "10",
+      "text": "They weren't looking for gold. They were hunting for Aoi-Kusa—a rare mountain herb that could filter the poison out of a person's lungs.",
+      "image": "assets/ep1/images/10.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 10.0
+    },
+    {
+      "id": "11",
+      "text": "Inside the smoke, a young girl named Hana was cornered against a burning wall, holding a small wooden seed box like her life depended on it.",
+      "image": "assets/ep1/images/11.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 11.3
+    },
+    {
+      "id": "12",
+      "text": "I told myself to walk away. It wasn't my fight. My sword was still tied shut.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.96
+    },
+    {
+      "id": "13",
+      "text": "Then Kagemori raised his iron club over her head—and my body moved before my mind could stop it.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.83
+    },
+    {
+      "id": "14",
+      "text": "I blocked his strike with my wooden scabbard, feeling the shock rattle straight up my arms.",
+      "image": "assets/ep1/images/14.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.96
+    },
+    {
+      "id": "15",
+      "text": "Two guards lunged at my flanks. With one thumb, I snapped the straw rope off my hilt and drew my blade.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 9.13
+    },
+    {
+      "id": "16",
+      "text": "I didn't kill them—just the flat of the steel to their ribs, knocking the wind out of their lungs.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.26
+    },
+    {
+      "id": "17",
+      "text": "Before Kagemori could recover, I grabbed Hana's sleeve and pulled her through the back alley into the pouring ash. Just like that, my quiet life was over.",
+      "image": "assets/ep1/images/17.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 11.74
+    },
+    {
+      "id": "18",
+      "text": "We hid inside an abandoned rice storehouse until midnight. Neither of us spoke a word.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.52
+    },
+    {
+      "id": "19",
+      "text": "Out in the dark, the Hollowed—people twisted by the black ash—were wandering the streets, listening for the slightest sound.",
+      "image": "assets/ep1/images/19.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.26
+    },
+    {
+      "id": "20",
+      "text": "Inside, Hana was shivering, still clutching that wooden box to her chest.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 5.22
+    },
+    {
+      "id": "21",
+      "text": "I took off my coat, draped it over her shoulders, and broke my last cold rice ball in half.",
+      "image": "assets/ep1/images/21.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.26
+    },
+    {
+      "id": "22",
+      "text": "She looked at me with wide, tired eyes and whispered, \"If these seeds die, nobody survives the winter.\"",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.83
+    },
+    {
+      "id": "23",
+      "text": "For the first time in months, I realized staying alive wasn't enough. We needed something worth surviving for.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.83
+    },
+    {
+      "id": "24",
+      "text": "At dawn, we made a run for the South Gate—only to find Kagemori already waiting with torches lit.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.83
+    },
+    {
+      "id": "25",
+      "text": "He smiled, thinking he had us cornered. \"Hand over the girl, ronin,\" he called out, \"and you can walk away.\"",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.7
+    },
+    {
+      "id": "26",
+      "text": "His voice echoed across the empty square. That was his mistake.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 4.78
+    },
+    {
+      "id": "27",
+      "text": "From the rooftops above, dozens of Hollowed heard him shout—and dropped down like shadows.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.09
+    },
+    {
+      "id": "28",
+      "text": "Chaos erupted in seconds. While Kagemori's men fought off the infected in the dark, I threw a pouch of charcoal dust into their torches.",
+      "image": "assets/ep1/images/28.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 10.43
+    },
+    {
+      "id": "29",
+      "text": "I sliced the wooden gate bar in half, and pushed Hana through the gap.",
+      "image": "assets/ep1/images/29.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.09
+    },
+    {
+      "id": "30",
+      "text": "I slammed the heavy gate shut behind us and wedged my broken scabbard through the iron rings.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 7.39
+    },
+    {
+      "id": "31",
+      "text": "We had escaped Kurogane-juku, bruised and out of supplies, with nothing left except a handful of seeds and each other.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 8.7
+    },
+    {
+      "id": "32",
+      "text": "Ahead of us stretched the Silent Bamboo Forest—the only path leading toward the high mountain sanctuary.",
+      "image": "assets/ep1/images/32.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.96
+    },
+    {
+      "id": "33",
+      "text": "Hana adjusted her cloth mask, gripped her wooden staff, and stepped beside me.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 5.65
+    },
+    {
+      "id": "34",
+      "text": "We didn't know what was waiting inside the mist.",
+      "image": null,
+      "audio": null,
+      "audioHash": null,
+      "duration": 3.91
+    },
+    {
+      "id": "35",
+      "text": "All we knew was that if we stopped walking, the ash would bury us both.",
+      "image": "assets/ep1/images/35.jpg",
+      "audio": null,
+      "audioHash": null,
+      "duration": 6.52
+    }
+  ]
+}

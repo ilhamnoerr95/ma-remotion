@@ -1,0 +1,50 @@
+# Episode 1 narration. One line = one clip = one scene = one image (named NN.jpg by line number, NN = position among non-comment lines).
+# Edit freely, then run: python tts/generate.py   (only changed lines are regenerated)
+# Lines are split so they match the subtitles baked into the existing images.
+
+# Part 1
+Nobody in Edo expected the end of the world to fall quietly from the sky.
+No invading army. No warning drums. Just a warm, black ash that tasted like burnt iron.
+Within three days, the sun disappeared behind a ceiling of grey smoke.
+Wells turned bitter. Rice fields withered into dust.
+And the people who breathed in too much of that ash... stopped being human.
+My name is Renjiro. I used to be a samurai sworn to protect a lord I couldn't save.
+After that, I tied my sword shut with straw rope and promised myself one simple rule: keep your head down, trust nobody, and survive on your own.
+
+# Part 2
+That rule lasted until the seventh night. While scavenging for clean water near the edge of town, I smelled burning cedar.
+The local herbalist's clinic was on fire. Commander Kagemori and his Iron Clan raiders were tearing the place apart.
+They weren't looking for gold. They were hunting for Aoi-Kusa—a rare mountain herb that could filter the poison out of a person's lungs.
+Inside the smoke, a young girl named Hana was cornered against a burning wall, holding a small wooden seed box like her life depended on it.
+I told myself to walk away. It wasn't my fight. My sword was still tied shut.
+
+# Part 3
+Then Kagemori raised his iron club over her head—and my body moved before my mind could stop it.
+I blocked his strike with my wooden scabbard, feeling the shock rattle straight up my arms.
+Two guards lunged at my flanks. With one thumb, I snapped the straw rope off my hilt and drew my blade.
+I didn't kill them—just the flat of the steel to their ribs, knocking the wind out of their lungs.
+Before Kagemori could recover, I grabbed Hana's sleeve and pulled her through the back alley into the pouring ash. Just like that, my quiet life was over.
+
+# Part 4
+We hid inside an abandoned rice storehouse until midnight. Neither of us spoke a word.
+Out in the dark, the Hollowed—people twisted by the black ash—were wandering the streets, listening for the slightest sound.
+Inside, Hana was shivering, still clutching that wooden box to her chest.
+I took off my coat, draped it over her shoulders, and broke my last cold rice ball in half.
+She looked at me with wide, tired eyes and whispered, "If these seeds die, nobody survives the winter."
+For the first time in months, I realized staying alive wasn't enough. We needed something worth surviving for.
+
+# Part 5
+At dawn, we made a run for the South Gate—only to find Kagemori already waiting with torches lit.
+He smiled, thinking he had us cornered. "Hand over the girl, ronin," he called out, "and you can walk away."
+His voice echoed across the empty square. That was his mistake.
+From the rooftops above, dozens of Hollowed heard him shout—and dropped down like shadows.
+Chaos erupted in seconds. While Kagemori's men fought off the infected in the dark, I threw a pouch of charcoal dust into their torches.
+I sliced the wooden gate bar in half, and pushed Hana through the gap.
+
+# Part 6
+I slammed the heavy gate shut behind us and wedged my broken scabbard through the iron rings.
+We had escaped Kurogane-juku, bruised and out of supplies, with nothing left except a handful of seeds and each other.
+Ahead of us stretched the Silent Bamboo Forest—the only path leading toward the high mountain sanctuary.
+Hana adjusted her cloth mask, gripped her wooden staff, and stepped beside me.
+We didn't know what was waiting inside the mist.
+All we knew was that if we stopped walking, the ash would bury us both.
